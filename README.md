@@ -1,6 +1,6 @@
 # Proyecto integrador
 
-animación frame X frame en base a una referencia de "walk cycle". 
+Animación frame X frame en base a una referencia de "walk cycle". 
 
 - En la creacion de este proyecto se lleva a cabo la animacion de una imagen de referencia, es decir una imagen que tenga varios movimientos y hacer que en blender se vea de forma animada
 
